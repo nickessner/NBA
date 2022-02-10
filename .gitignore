@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 #AIQ data
-C:\NBA\NBA_Data_File.xlsx
+/NBA_Data_File.xlsx
