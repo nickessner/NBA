@@ -1,0 +1,514 @@
+TEAM,COLLEGE,NAME,COLLEGE_NAME
+Oklahoma City Thunder,Pittsburgh,Steven Adams,PittsburghSteven Adams
+Brooklyn Nets,Texas,Jarrett Allen,TexasJarrett Allen
+Phoenix Suns,Arizona,Deandre Ayton,ArizonaDeandre Ayton
+Orlando Magic,Texas,Mo Bamba,TexasMo Bamba
+Phoenix Suns,Washington State,Aron Baynes,Washington StateAron Baynes
+Indiana Pacers,,Goga Bitadze,Goga Bitadze
+Charlotte Hornets,,Bismack Biyombo,Bismack Biyombo
+Denver Nuggets,Oregon,Bol Bol,OregonBol Bol
+Utah Jazz,North Carolina,Tony Bradley,North CarolinaTony Bradley
+Portland Trail Blazers,UCLA,Moses Brown,UCLAMoses Brown
+Washington Wizards,Indiana,Thomas Bryant,IndianaThomas Bryant
+Los Angeles Lakers,North Carolina-Wilmington,Devontae Cacok,North Carolina-WilmingtonDevontae Cacok
+Atlanta Hawks,,Clint Capela,Clint Capela
+Chicago Bulls,Duke, Wendell Carter Jr.,Duke Wendell Carter Jr.
+Dallas Mavericks,Kentucky,Willie Cauley-Stein,KentuckyWillie Cauley-Stein
+Houston Rockets,,Tyson Chandler,Tyson Chandler
+Golden State Warriors,Washington,Marquese Chriss,WashingtonMarquese Chriss
+Utah Jazz,North Carolina,Ed Davis,North CarolinaEd Davis
+Atlanta Hawks,USC,Dewayne Dedmon,USCDewayne Dedmon
+Memphis Grizzlies,Louisville,Gorgui Dieng,LouisvilleGorgui Dieng
+Cleveland Cavaliers,Connecticut,Andre Drummond,ConnecticutAndre Drummond
+Philadelphia 76ers,Kansas,Joel Embiid,KansasJoel Embiid
+Boston Celtics,UCF,Tacko Fall,UCFTacko Fall
+New Orleans Pelicans,Georgia Tech,Derrick Favors,Georgia TechDerrick Favors
+Atlanta Hawks,Maryland,Bruno Fernando,MarylandBruno Fernando
+Toronto Raptors,,Marc Gasol,Marc Gasol
+New York Knicks,USC,Taj Gibson,USCTaj Gibson
+Sacramento Kings,Duke,Harry Giles III ,DukeHarry Giles III 
+Utah Jazz,,Rudy Gobert,Rudy Gobert
+New Orleans Pelicans,Texas,Jaxson Hayes,TexasJaxson Hayes
+Toronto Raptors,Miami (FL),Dewan Hernandez,Miami (FL)Dewan Hernandez
+Charlotte Hornets,,Willy Hernangomez,Willy Hernangomez
+Sacramento Kings,Bowling Green,Richaun Holmes,Bowling GreenRichaun Holmes
+Los Angeles Lakers,,Dwight Howard,Dwight Howard
+Toronto Raptors,,Serge Ibaka,Serge Ibaka
+Denver Nuggets,,Nikola Jokic,Nikola Jokic
+Atlanta Hawks,Vanderbilt,Damian Jones,VanderbiltDamian Jones
+Brooklyn Nets,Texas A&M,DeAndre Jordan,Texas A&MDeAndre Jordan
+Phoenix Suns,Wisconsin,Frank Kaminsky,WisconsinFrank Kaminsky
+Boston Celtics,Kentucky,Enes Kanter,KentuckyEnes Kanter
+Chicago Bulls,Vanderbilt,Luke Kornet,VanderbiltLuke Kornet
+Sacramento Kings,Maryland,Alex Len,MarylandAlex Len
+Miami Heat,Illinois,Meyers Leonard,IllinoisMeyers Leonard
+Milwaukee Bucks,Stanford,Brook Lopez,StanfordBrook Lopez
+Milwaukee Bucks,Stanford,Robin Lopez,StanfordRobin Lopez
+San Antonio Spurs,Kentucky,Trey Lyles,KentuckyTrey Lyles
+Washington Wizards,,Ian Mahinmi,Ian Mahinmi
+Detroit Pistons,,Thon Maker,Thon Maker
+Dallas Mavericks,,Boban Marjanovic,Boban Marjanovic
+Los Angeles Lakers,Nevada,JaVale McGee,NevadaJaVale McGee
+LA Clippers,Florida,Joakim Noah,FloridaJoakim Noah
+Oklahoma City Thunder,Kentucky,Nerlens Noel,KentuckyNerlens Noel
+Portland Trail Blazers,,Jusuf Nurkic,Jusuf Nurkic
+Philadelphia 76ers,Norfolk State,Kyle O'Quinn,Norfolk StateKyle O'Quinn
+New Orleans Pelicans,Duke,Jahlil Okafor,DukeJahlil Okafor
+Washington Wizards,,Anzejs Pasecniks,Anzejs Pasecniks
+Detroit Pistons,Creighton,Justin Patton,CreightonJustin Patton
+San Antonio Spurs,Utah,Jakob Poeltl,UtahJakob Poeltl
+Boston Celtics,,Vincent Poirier,Vincent Poirier
+Dallas Mavericks,Stanford,Dwight Powell,StanfordDwight Powell
+Minnesota Timberwolves,LSU,Naz Reid,LSUNaz Reid
+New York Knicks,Western Kentucky,Mitchell Robinson,Western KentuckyMitchell Robinson
+Boston Celtics,,Daniel Theis,Daniel Theis
+Cleveland Cavaliers,Texas,Tristan Thompson,TexasTristan Thompson
+Minnesota Timberwolves,Kentucky,Karl-Anthony Towns,KentuckyKarl-Anthony Towns
+Indiana Pacers,Texas,Myles Turner,TexasMyles Turner
+Memphis Grizzlies,,Jonas Valanciunas,Jonas Valanciunas
+Orlando Magic,USC,Nikola Vucevic,USCNikola Vucevic
+Portland Trail Blazers,Marshall,Hassan Whiteside,MarshallHassan Whiteside
+Boston Celtics,Texas A&M, Robert Williams III,Texas A&M Robert Williams III
+Charlotte Hornets,Indiana,Cody Zeller,IndianaCody Zeller
+San Antonio Spurs,North Carolina,Tyler Zeller,North CarolinaTyler Zeller
+Cleveland Cavaliers,,Ante Zizic,Ante Zizic
+LA Clippers,,Ivica Zubac,Ivica Zubac
+Miami Heat,Kentucky,Bam Adebayo,KentuckyBam Adebayo
+San Antonio Spurs,Texas,LaMarcus Aldridge,TexasLaMarcus Aldridge
+Miami Heat,Tennessee,Kyle Alexander,TennesseeKyle Alexander
+Orlando Magic,Wake Forest,Al-Farouq Aminu,Wake ForestAl-Farouq Aminu
+Milwaukee Bucks,,Giannis Antetokounmpo,Giannis Antetokounmpo
+Los Angeles Lakers,Dayton,Kostas Antetokounmpo,DaytonKostas Antetokounmpo
+Portland Trail Blazers,Syracuse,Carmelo Anthony,SyracuseCarmelo Anthony
+Sacramento Kings,Duke, Marvin Bagley III,Duke Marvin Bagley III
+Cleveland Cavaliers,Oregon,Jordan Bell,OregonJordan Bell
+Orlando Magic,UNLV,Khem Birch,UNLVKhem Birch
+Sacramento Kings,,Nemanja Bjelica,Nemanja Bjelica
+Toronto Raptors,Oregon,Chris Boucher,OregonChris Boucher
+Utah Jazz,Charleston,Jarrell Brantley,CharlestonJarrell Brantley
+Orlando Magic,Cincinnati,Gary Clark,CincinnatiGary Clark
+Brooklyn Nets,Georgia,Nicolas Claxton,GeorgiaNicolas Claxton
+Atlanta Hawks,Wake Forest,John Collins,Wake ForestJohn Collins
+Portland Trail Blazers,Gonzaga,Zach Collins,GonzagaZach Collins
+Denver Nuggets,Iowa,Tyler Cook,IowaTyler Cook
+Houston Rockets,Tennessee State,Robert Covington,Tennessee StateRobert Covington
+Los Angeles Lakers,Kentucky,Anthony Davis,KentuckyAnthony Davis
+Phoenix Suns,Kansas,Cheick Diallo,KansasCheick Diallo
+San Antonio Spurs,Oregon State,Drew Eubanks,Oregon StateDrew Eubanks
+Chicago Bulls,,Cristiano Felicio,Cristiano Felicio
+Portland Trail Blazers,Kentucky,Wenyen Gabriel,KentuckyWenyen Gabriel
+Chicago Bulls,Arkansas,Daniel Gafford,ArkansasDaniel Gafford
+Oklahoma City Thunder,,Danilo Gallinari,Danilo Gallinari
+Orlando Magic,Arizona,Aaron Gordon,ArizonaAaron Gordon
+Denver Nuggets,Syracuse,Jerami Grant,SyracuseJerami Grant
+Golden State Warriors,Michigan State,Draymond Green,Michigan StateDraymond Green
+LA Clippers,Alabama,JaMychal Green,AlabamaJaMychal Green
+Houston Rockets,Georgetown,Jeff Green,GeorgetownJeff Green
+Detroit Pistons,Oklahoma,Blake Griffin,OklahomaBlake Griffin
+Washington Wizards,Gonzaga,Rui Hachimura,GonzagaRui Hachimura
+Brooklyn Nets,Alabama,Donta Hall,AlabamaDonta Hall
+LA Clippers,Louisville,Montrezl Harrell,LouisvilleMontrezl Harrell
+Miami Heat,Florida,Udonis Haslem,FloridaUdonis Haslem
+Detroit Pistons,North Carolina,John Henson,North CarolinaJohn Henson
+Minnesota Timberwolves,,Juan Hernangomez,Juan Hernangomez
+Oklahoma City Thunder,Texas-Arlington,Kevin Hervey,Texas-ArlingtonKevin Hervey
+Philadelphia 76ers,Florida,Al Horford,FloridaAl Horford
+Milwaukee Bucks,,Ersan Ilyasova,Ersan Ilyasova
+Orlando Magic,Florida State,Jonathan Isaac,Florida StateJonathan Isaac
+Memphis Grizzlies,Michigan State, Jaren Jackson Jr.,Michigan State Jaren Jackson Jr.
+Indiana Pacers,Missouri State,Alize Johnson,Missouri StateAlize Johnson
+Minnesota Timberwolves,Wake Forest,James Johnson,Wake ForestJames Johnson
+LA Clippers,Florida State,Mfiondu Kabengele,Florida StateMfiondu Kabengele
+Dallas Mavericks,,Maxi Kleber,Maxi Kleber
+Los Angeles Lakers,Utah,Kyle Kuzma,UtahKyle Kuzma
+Atlanta Hawks,Kentucky,Skal Labissiere,KentuckySkal Labissiere
+Orlando Magic,Northwestern,Vic Law,NorthwesternVic Law
+Indiana Pacers,UCLA,T.J. Leaf,UCLAT.J. Leaf
+Golden State Warriors,UCLA,Kevon Looney,UCLAKevon Looney
+Cleveland Cavaliers,UCLA,Kevin Love,UCLAKevin Love
+Chicago Bulls,Arizona,Lauri Markkanen,ArizonaLauri Markkanen
+Houston Rockets,UCLA,a Moute Luc Mbah,UCLAa Moute Luc Mbah
+Charlotte Hornets,San Diego State,Jalen McDaniels,San Diego StateJalen McDaniels
+New Orleans Pelicans,,Nicolo Melli,Nicolo Melli
+San Antonio Spurs,USC,Chimezie Metu,USCChimezie Metu
+Denver Nuggets,Louisiana Tech,Paul Millsap,Louisiana TechPaul Millsap
+Los Angeles Lakers,Kansas,Markieff Morris,KansasMarkieff Morris
+LA Clippers,Baylor,Johnathan Motley,BaylorJohnathan Motley
+Oklahoma City Thunder,Bucknell,Mike Muscala,BucknellMike Muscala
+Cleveland Cavaliers,Wyoming, Larry Nance Jr.,Wyoming Larry Nance Jr.
+Boston Celtics,SMU,Semi Ojeleye,SMUSemi Ojeleye
+Miami Heat,Gonzaga,Kelly Olynyk,GonzagaKelly Olynyk
+Phoenix Suns,Texas Tech,Tariq Owens,Texas TechTariq Owens
+Sacramento Kings,Duke,Jabari Parker,DukeJabari Parker
+Golden State Warriors,Villanova,Eric Paschall,VillanovaEric Paschall
+LA Clippers,Kentucky,Patrick Patterson,KentuckyPatrick Patterson
+Denver Nuggets,Duke,Mason Plumlee,DukeMason Plumlee
+Memphis Grizzlies,Missouri,Jontay Porter,MissouriJontay Porter
+Denver Nuggets,Missouri,Michael Porter Jr. ,MissouriMichael Porter Jr. 
+New York Knicks,Arkansas,Bobby Portis,ArkansasBobby Portis
+Dallas Mavericks,,Kristaps Porzingis,Kristaps Porzingis
+Brooklyn Nets,Baylor,Taurean Prince,BaylorTaurean Prince
+New York Knicks,Kentucky,Julius Randle,KentuckyJulius Randle
+Indiana Pacers,Gonzaga,Domantas Sabonis,GonzagaDomantas Sabonis
+San Antonio Spurs,,Luka Samanic,Luka Samanic
+Phoenix Suns,,Dario Saric,Dario Saric
+Philadelphia 76ers,Virginia,Mike Scott,VirginiaMike Scott
+Toronto Raptors,New Mexico State,Pascal Siakam,New Mexico StatePascal Siakam
+Miami Heat,South Carolina,Chris Silva,South CarolinaChris Silva
+Golden State Warriors,,Alen Smailagic,Alen Smailagic
+Charlotte Hornets,Louisville,Ray Spalding,LouisvilleRay Spalding
+Minnesota Timberwolves,Villanova,Omari Spellman,VillanovaOmari Spellman
+Portland Trail Blazers,Purdue,Caleb Swanigan,PurdueCaleb Swanigan
+Boston Celtics,Duke,Jayson Tatum,DukeJayson Tatum
+Memphis Grizzlies,Creighton,Anthony Tolliver,CreightonAnthony Tolliver
+Houston Rockets,Texas,P.J. Tucker,TexasP.J. Tucker
+Minnesota Timberwolves,Kentucky,Jarred Vanderbilt,KentuckyJarred Vanderbilt
+Denver Nuggets,Indiana,Noah Vonleh,IndianaNoah Vonleh
+Cleveland Cavaliers,Kansas State,Dean Wade,Kansas StateDean Wade
+Charlotte Hornets,Kentucky,PJ Washington,KentuckyPJ Washington
+Boston Celtics,Tennessee,Grant Williams,TennesseeGrant Williams
+Washington Wizards,Gonzaga,Johnathan Williams,GonzagaJohnathan Williams
+Milwaukee Bucks,North Carolina,Marvin Williams,North CarolinaMarvin Williams
+Milwaukee Bucks,Michigan,D.J. Wilson,MichiganD.J. Wilson
+Detroit Pistons,UNLV,Christian Wood,UNLVChristian Wood
+New York Knicks,Oregon,Kenny Wooten,OregonKenny Wooten
+Chicago Bulls,Georgia Tech,Thaddeus Young,Georgia TechThaddeus Young
+Miami Heat,Tennessee,Kyle Alexander,TennesseeKyle Alexander
+Memphis Grizzlies,UCLA,Kyle Anderson,UCLAKyle Anderson
+Milwaukee Bucks,,Thanasis Antetokounmpo,Thanasis Antetokounmpo
+Toronto Raptors,Indiana,OG Anunoby,IndianaOG Anunoby
+Portland Trail Blazers,UCLA,Trevor Ariza,UCLATrevor Ariza
+Sacramento Kings,North Carolina,Harrison Barnes,North CarolinaHarrison Barnes
+Denver Nuggets,Memphis,Will Barton,MemphisWill Barton
+Denver Nuggets,Ohio State,Keita Bates-Diop,Ohio StateKeita Bates-Diop
+Oklahoma City Thunder,,Darius Bazley,Darius Bazley
+Washington Wizards,,Davis Bertans,Davis Bertans
+Utah Jazz,,Bojan Bogdanovic,Bojan Bogdanovic
+Washington Wizards,,Isaac Bonga,Isaac Bonga
+New York Knicks,Michigan,Ignas Brazdeikis,MichiganIgnas Brazdeikis
+Phoenix Suns,Villanova,Mikal Bridges,VillanovaMikal Bridges
+Charlotte Hornets,Michigan State,Miles Bridges,Michigan StateMiles Bridges
+Toronto Raptors,Syracuse,Oshae Brissett,SyracuseOshae Brissett
+Washington Wizards,Oregon, Troy Brown Jr.,Oregon Troy Brown Jr.
+New York Knicks,North Carolina,Reggie Bullock,North CarolinaReggie Bullock
+Miami Heat,Marquette,Jimmy Butler,MarquetteJimmy Butler
+Houston Rockets,,Bruno Caboclo,Bruno Caboclo
+Denver Nuggets,,Vlatko Cancar,Vlatko Cancar
+Houston Rockets,Missouri,DeMarre Carroll,MissouriDeMarre Carroll
+Brooklyn Nets,DePaul,Wilson Chandler,DePaulWilson Chandler
+New Orleans Pelicans,Arizona State,Zylan Cheatham,Arizona StateZylan Cheatham
+Memphis Grizzlies,Gonzaga,Brandon Clarke,GonzagaBrandon Clarke
+Denver Nuggets,USC Upstate,Torrey Craig,USC UpstateTorrey Craig
+Miami Heat,Marquette,Jae Crowder,MarquetteJae Crowder
+San Antonio Spurs,USC,DeMar DeRozan,USCDeMar DeRozan
+Detroit Pistons,,Sekou Doumbouya,Sekou Doumbouya
+Los Angeles Lakers,Boston College,Jared Dudley,Boston CollegeJared Dudley
+Brooklyn Nets,Texas,Kevin Durant,TexasKevin Durant
+Orlando Magic,Long Beach State, James Ennis III,Long Beach State James Ennis III
+Oklahoma City Thunder,,Terrance Ferguson,Terrance Ferguson
+Dallas Mavericks,Florida,Dorian Finney-Smith,FloridaDorian Finney-Smith
+San Antonio Spurs,Connecticut,Rudy Gay,ConnecticutRudy Gay
+New York Knicks,St. John's,Maurice Harkless,St. John'sMaurice Harkless
+Brooklyn Nets,Virginia,Joe Harris,VirginiaJoe Harris
+Philadelphia 76ers,Tennessee,Tobias Harris,TennesseeTobias Harris
+New Orleans Pelicans,Villanova,Josh Hart,VillanovaJosh Hart
+Boston Celtics,Butler,Gordon Hayward,ButlerGordon Hayward
+Portland Trail Blazers,,Mario Hezonja,Mario Hezonja
+Miami Heat,Arizona,Solomon Hill,ArizonaSolomon Hill
+Portland Trail Blazers,Wake Forest,Jaylen Hoard,Wake ForestJaylen Hoard
+Indiana Pacers,Washington,Justin Holiday,WashingtonJustin Holiday
+Toronto Raptors,Arizona,Rondae Hollis-Jefferson,ArizonaRondae Hollis-Jefferson
+Portland Trail Blazers,Duke,Rodney Hood,DukeRodney Hood
+Houston Rockets,Texas A&M, Danuel House Jr.,Texas A&M Danuel House Jr.
+Atlanta Hawks,Virginia,De'Andre Hunter,VirginiaDe'Andre Hunter
+Chicago Bulls,Boise State,Chandler Hutchison,Boise StateChandler Hutchison
+New Orleans Pelicans,Duke,Brandon Ingram,DukeBrandon Ingram
+Orlando Magic,Kansas State,Wes Iwundu,Kansas StateWes Iwundu
+Dallas Mavericks,North Carolina,Justin Jackson,North CarolinaJustin Jackson
+Los Angeles Lakers,,LeBron James,LeBron James
+Orlando Magic,La Salle,BJ Johnson,La SalleBJ Johnson
+Phoenix Suns,North Carolina,Cameron Johnson,North CarolinaCameron Johnson
+San Antonio Spurs,Kentucky,Keldon Johnson,KentuckyKeldon Johnson
+Toronto Raptors,Arizona,Stanley Johnson,ArizonaStanley Johnson
+Miami Heat,UNLV, Derrick Jones Jr.,UNLV Derrick Jones Jr.
+Dallas Mavericks,Kentucky,Michael Kidd-Gilchrist,KentuckyMichael Kidd-Gilchrist
+Detroit Pistons,Oregon,Louis King,OregonLouis King
+New York Knicks,Kentucky, Kevin Knox II,Kentucky Kevin Knox II
+Brooklyn Nets,,Rodions Kurucs,Rodions Kurucs
+Orlando Magic,Northwestern,Vic Law,NorthwesternVic Law
+Minnesota Timberwolves,Maryland,Jake Layman,MarylandJake Layman
+LA Clippers,San Diego State,Kawhi Leonard,San Diego StateKawhi Leonard
+Portland Trail Blazers,North Carolina,Nassir Little,North CarolinaNassir Little
+Charlotte Hornets,Nevada,Caleb Martin,NevadaCaleb Martin
+Charlotte Hornets,Nevada,Cody Martin,NevadaCody Martin
+Minnesota Timberwolves,Butler,Kelan Martin,ButlerKelan Martin
+Toronto Raptors,UNLV,Patrick McCaw,UNLVPatrick McCaw
+Indiana Pacers,Creighton,Doug McDermott,CreightonDoug McDermott
+Cleveland Cavaliers,Green Bay,Alfonzo McKinnie,Green BayAlfonzo McKinnie
+Houston Rockets,Kansas,Ben McLemore,KansasBen McLemore
+Milwaukee Bucks,Texas A&M,Khris Middleton,Texas A&MKhris Middleton
+New Orleans Pelicans,Kentucky,Darius Miller,KentuckyDarius Miller
+Utah Jazz,Indiana,Juwan Morgan,IndianaJuwan Morgan
+LA Clippers,Kansas,Sr. Marcus Morris,KansasSr. Marcus Morris
+Oklahoma City Thunder,Iowa State,Abdel Nader,Iowa StateAbdel Nader
+Utah Jazz,Iowa State,Georges Niang,Iowa StateGeorges Niang
+Utah Jazz,Baylor,Royce O'Neale,BaylorRoyce O'Neale
+Phoenix Suns,,Elie Okobo,Elie Okobo
+Minnesota Timberwolves,Georgia Tech,Josh Okogie,Georgia TechJosh Okogie
+Miami Heat,Stanford,KZ Okpala,StanfordKZ Okpala
+Cleveland Cavaliers,,Cedi Osman,Cedi Osman
+Phoenix Suns,Kansas, Kelly Oubre Jr.,Kansas Kelly Oubre Jr.
+Phoenix Suns,Texas Tech,Tariq Owens,Texas TechTariq Owens
+Philadelphia 76ers,,Norvel Pelle,Norvel Pelle
+Chicago Bulls,Georgetown, Otto Porter Jr.,Georgetown Otto Porter Jr.
+Philadelphia 76ers,Michigan,Glenn Robinson III ,MichiganGlenn Robinson III 
+Oklahoma City Thunder,Nebraska,Isaiah Roby,NebraskaIsaiah Roby
+Indiana Pacers,St. John's,JaKarr Sampson,St. John'sJaKarr Sampson
+Houston Rockets,,Thabo Sefolosha,Thabo Sefolosha
+Detroit Pistons,New Mexico,Tony Snell,New MexicoTony Snell
+Brooklyn Nets,Duke,Lance Thomas,DukeLance Thomas
+Golden State Warriors,Marquette,Juan Toscano-Anderson,MarquetteJuan Toscano-Anderson
+Washington Wizards,Iowa,Jarrod Uthoff,IowaJarrod Uthoff
+Washington Wizards,Michigan,Moritz Wagner,MichiganMoritz Wagner
+Indiana Pacers,North Carolina State,T.J. Warren,North Carolina StateT.J. Warren
+Toronto Raptors,Fresno State,Paul Watson,Fresno StatePaul Watson
+Golden State Warriors,Kansas,Andrew Wiggins,KansasAndrew Wiggins
+New Orleans Pelicans,TCU,Kenrich Williams,TCUKenrich Williams
+New Orleans Pelicans,Duke,Zion Williamson,DukeZion Williamson
+Memphis Grizzlies,Duke,Justise Winslow,DukeJustise Winslow
+New Orleans Pelicans,Virginia Tech,Nickeil Alexander-Walker,Virginia TechNickeil Alexander-Walker
+Memphis Grizzlies,Duke,Grayson Allen,DukeGrayson Allen
+Brooklyn Nets,Virginia,Justin Anderson,VirginiaJustin Anderson
+Charlotte Hornets,Florida State,Dwayne Bacon,Florida StateDwayne Bacon
+New York Knicks,Duke,RJ Barrett,DukeRJ Barrett
+Charlotte Hornets,,Nicolas Batum,Nicolas Batum
+Sacramento Kings,Old Dominion,Kent Bazemore,Old DominionKent Bazemore
+Washington Wizards,Florida,Bradley Beal,FloridaBradley Beal
+Minnesota Timberwolves,Florida State,Malik Beasley,Florida StateMalik Beasley
+San Antonio Spurs,,Marco Belinelli,Marco Belinelli
+Atlanta Hawks,Saint Joseph's,DeAndre' Bembry,Saint Joseph'sDeAndre' Bembry
+Sacramento Kings,,Bogdan Bogdanovic,Bogdan Bogdanovic
+Phoenix Suns,Kentucky,Devin Booker,KentuckyDevin Booker
+Indiana Pacers,,Brian Bowen II ,Brian Bowen II 
+Sacramento Kings,Florida,Corey Brewer,FloridaCorey Brewer
+Philadelphia 76ers,Valparaiso,Ryan Broekhoff,ValparaisoRyan Broekhoff
+Memphis Grizzlies,Oregon,Dillon Brooks,OregonDillon Brooks
+Detroit Pistons,Miami (FL),Bruce Brown,Miami (FL)Bruce Brown
+Boston Celtics,California,Jaylen Brown,CaliforniaJaylen Brown
+Milwaukee Bucks,SMU,Sterling Brown,SMUSterling Brown
+Atlanta Hawks,Saint Joseph's, Charlie Brown Jr.,Saint Joseph's Charlie Brown Jr.
+Philadelphia 76ers,Colorado,Alec Burks,ColoradoAlec Burks
+Oklahoma City Thunder,Iowa State,Deonte Burton,Iowa StateDeonte Burton
+Los Angeles Lakers,Georgia,Kentavious Caldwell-Pope,GeorgiaKentavious Caldwell-Pope
+Los Angeles Lakers,Texas A&M,Alex Caruso,Texas A&MAlex Caruso
+Dallas Mavericks,Southeast Missouri State,Antonius Cleveland,Southeast Missouri StateAntonius Cleveland
+LA Clippers,Minnesota,Amir Coffey,MinnesotaAmir Coffey
+Milwaukee Bucks,Notre Dame,Pat Connaughton,Notre DamePat Connaughton
+Brooklyn Nets,Michigan,Jamal Crawford,MichiganJamal Crawford
+Minnesota Timberwolves,Texas Tech,Jarrett Culver,Texas TechJarrett Culver
+Dallas Mavericks,Duke,Seth Curry,DukeSeth Curry
+Denver Nuggets,Virginia Commonwealth,Troy Daniels,Virginia CommonwealthTroy Daniels
+Toronto Raptors,Ole Miss,Terence Davis,Ole MissTerence Davis
+Oklahoma City Thunder,Kentucky,Hamidou Diallo,KentuckyHamidou Diallo
+Milwaukee Bucks,Villanova,Donte DiVincenzo,VillanovaDonte DiVincenzo
+Dallas Mavericks,,Luka Doncic,Luka Doncic
+Oklahoma City Thunder,Arizona State,Luguentz Dort,Arizona StateLuguentz Dort
+New York Knicks,Houston,Damyean Dotson,HoustonDamyean Dotson
+New York Knicks,North Carolina,Wayne Ellington,North CarolinaWayne Ellington
+Minnesota Timberwolves,Cincinnati,Jacob Evans,CincinnatiJacob Evans
+San Antonio Spurs,Michigan State,Bryn Forbes,Michigan StateBryn Forbes
+Orlando Magic,,Evan Fournier,Evan Fournier
+Houston Rockets,Florida,Michael Frazier,FloridaMichael Frazier
+Orlando Magic,Tulane, Melvin Frazier Jr.,Tulane Melvin Frazier Jr.
+Detroit Pistons,Saint Joseph's,Langston Galloway,Saint Joseph'sLangston Galloway
+LA Clippers,Fresno State,Paul George,Fresno StatePaul George
+Oklahoma City Thunder,Kentucky,Shai Gilgeous-Alexander,KentuckyShai Gilgeous-Alexander
+Houston Rockets,Indiana,Eric Gordon,IndianaEric Gordon
+Atlanta Hawks,Virginia Commonwealth,Treveon Graham,Virginia CommonwealthTreveon Graham
+Los Angeles Lakers,North Carolina,Danny Green,North CarolinaDanny Green
+Boston Celtics,Radford,Javonte Green,RadfordJavonte Green
+Memphis Grizzlies,,Marko Guduric,Marko Guduric
+Sacramento Kings,Virginia,Kyle Guy,VirginiaKyle Guy
+Oklahoma City Thunder,Virginia,Devon Hall,VirginiaDevon Hall
+Dallas Mavericks,Michigan, Tim Hardaway Jr.,Michigan Tim Hardaway Jr.
+Houston Rockets,Arizona State,James Harden,Arizona StateJames Harden
+Denver Nuggets,Michigan State,Gary Harris,Michigan StateGary Harris
+Miami Heat,Kentucky,Tyler Herro,KentuckyTyler Herro
+Sacramento Kings,Oklahoma,Buddy Hield,OklahomaBuddy Hield
+New Orleans Pelicans,UCLA,Jrue Holiday,UCLAJrue Holiday
+Los Angeles Lakers,Iowa State,Talen Horton-Tucker,Iowa StateTalen Horton-Tucker
+Houston Rockets,,William Howard,William Howard
+Atlanta Hawks,Maryland,Kevin Huerter,MarylandKevin Huerter
+Miami Heat,Arizona,Andre Iguodala,ArizonaAndre Iguodala
+Utah Jazz,,Joe Ingles,Joe Ingles
+Memphis Grizzlies,Kansas,Josh Jackson,KansasJosh Jackson
+Sacramento Kings,Wyoming,Justin James,WyomingJustin James
+Sacramento Kings,Tulsa,DaQuan Jeffries,TulsaDaQuan Jeffries
+Phoenix Suns,Virginia,Ty Jerome,VirginiaTy Jerome
+Brooklyn Nets,Fresno State,Tyler Johnson,Fresno StateTyler Johnson
+Detroit Pistons,Duke,Luke Kennard,DukeLuke Kennard
+Memphis Grizzlies,,John Konchar,John Konchar
+Philadelphia 76ers,,Furkan Korkmaz,Furkan Korkmaz
+Milwaukee Bucks,Creighton,Kyle Korver,CreightonKyle Korver
+Indiana Pacers,Connecticut,Jeremy Lamb,ConnecticutJeremy Lamb
+Boston Celtics,Indiana,Romeo Langford,IndianaRomeo Langford
+Dallas Mavericks,Western Kentucky,Courtney Lee,Western KentuckyCourtney Lee
+Golden State Warriors,Louisville,Damion Lee,LouisvilleDamion Lee
+Brooklyn Nets,Michigan,Caris LeVert,MichiganCaris LeVert
+Brooklyn Nets,,Timothe Luwawu-Cabarrot,Timothe Luwawu-Cabarrot
+LA Clippers,Florida State,Terance Mann,Florida StateTerance Mann
+Washington Wizards,Lipscomb,Garrison Mathews,LipscombGarrison Mathews
+Milwaukee Bucks,Marquette,Wesley Matthews,MarquetteWesley Matthews
+Portland Trail Blazers,Lehigh,CJ McCollum,LehighCJ McCollum
+LA Clippers,Kansas State,Rodney McGruder,Kansas StateRodney McGruder
+Detroit Pistons,Tennessee,Jordan McRae,TennesseeJordan McRae
+Memphis Grizzlies,USC,De'Anthony Melton,USCDe'Anthony Melton
+Toronto Raptors,Holy Cross,Malcolm Miller,Holy CrossMalcolm Miller
+Philadelphia 76ers,SMU,Shake Milton,SMUShake Milton
+Utah Jazz,Louisville,Donovan Mitchell,LouisvilleDonovan Mitchell
+Indiana Pacers,Iowa State,Naz Mitrou-Long,Iowa StateNaz Mitrou-Long
+Chicago Bulls,,Adam Mokoka,Adam Mokoka
+Charlotte Hornets,Kentucky,Malik Monk,KentuckyMalik Monk
+Cleveland Cavaliers,Texas Tech,Matt Mooney,Texas TechMatt Mooney
+New Orleans Pelicans,Purdue,E'Twaun Moore,PurdueE'Twaun Moore
+Golden State Warriors,Kentucky,Mychal Mulder,KentuckyMychal Mulder
+Brooklyn Nets,,Dzanan Musa,Dzanan Musa
+Detroit Pistons,Kansas,Sviatoslav Mykhailiuk,KansasSviatoslav Mykhailiuk
+Minnesota Timberwolves,Washington,Jaylen Nowell,WashingtonJaylen Nowell
+Miami Heat,Oakland,Kendrick Nunn,OaklandKendrick Nunn
+Houston Rockets,Cal Poly,David Nwaba,Cal PolyDavid Nwaba
+Indiana Pacers,Indiana,Victor Oladipo,IndianaVictor Oladipo
+Utah Jazz,Yale,Miye Oni,YaleMiye Oni
+New York Knicks,North Carolina,Theo Pinson,North CarolinaTheo Pinson
+Golden State Warriors,Michigan,Jordan Poole,MichiganJordan Poole
+Cleveland Cavaliers,USC, Kevin Porter Jr.,USC Kevin Porter Jr.
+Toronto Raptors,UCLA,Norman Powell,UCLANorman Powell
+Dallas Mavericks,Penn State,Josh Reaves,Penn StateJosh Reaves
+Atlanta Hawks,Duke,Cam Reddish,DukeCam Reddish
+New Orleans Pelicans,Duke,JJ Redick,DukeJJ Redick
+Milwaukee Bucks,Tulane,Cameron Reynolds,TulaneCameron Reynolds
+Philadelphia 76ers,Tennessee,Josh Richardson,TennesseeJosh Richardson
+Oklahoma City Thunder,Colorado,Andre Roberson,ColoradoAndre Roberson
+Miami Heat,Michigan,Duncan Robinson,MichiganDuncan Robinson
+Washington Wizards,Boston College,Jerome Robinson,Boston CollegeJerome Robinson
+Orlando Magic,Washington,Terrence Ross,WashingtonTerrence Ross
+Minnesota Timberwolves,Ohio State,D'Angelo Russell,Ohio StateD'Angelo Russell
+Chicago Bulls,,Tomas Satoransky,Tomas Satoransky
+Washington Wizards,Tennessee,Admiral Schofield,TennesseeAdmiral Schofield
+LA Clippers,Wichita State,Landry Shamet,Wichita StateLandry Shamet
+Philadelphia 76ers,Iowa State,Marial Shayok,Iowa StateMarial Shayok
+Portland Trail Blazers,,Anfernee Simons,Anfernee Simons
+Los Angeles Lakers,,JR Smith,JR Smith
+Philadelphia 76ers,Texas Tech,Zhaire Smith,Texas TechZhaire Smith
+Chicago Bulls,DePaul,Max Strus,DePaulMax Strus
+Brooklyn Nets,LSU,Garrett Temple,LSUGarrett Temple
+Detroit Pistons,Creighton,Khyri Thomas,CreightonKhyri Thomas
+Toronto Raptors,Iowa State,Matt Thomas,Iowa StateMatt Thomas
+Golden State Warriors,Washington State,Klay Thompson,Washington StateKlay Thompson
+New Orleans Pelicans,South Carolina,Sindarius Thornwell,South CarolinaSindarius Thornwell
+Philadelphia 76ers,Washington,Matisse Thybulle,WashingtonMatisse Thybulle
+Portland Trail Blazers,Duke, Gary Trent Jr.,Duke Gary Trent Jr.
+Utah Jazz,Arkansas-Little Rock,Rayjon Tucker,Arkansas-Little RockRayjon Tucker
+Minnesota Timberwolves,Ohio State,Evan Turner,Ohio StateEvan Turner
+Chicago Bulls,Michigan State,Denzel Valentine,Michigan StateDenzel Valentine
+Toronto Raptors,Wichita State,Fred VanVleet,Wichita StateFred VanVleet
+Los Angeles Lakers,Syracuse,Dion Waiters,SyracuseDion Waiters
+San Antonio Spurs,Miami (FL),IV Lonnie Walker,Miami (FL)IV Lonnie Walker
+Memphis Grizzlies,George Washington,Yuta Watanabe,George WashingtonYuta Watanabe
+San Antonio Spurs,Mississippi State,Quinndary Weatherspoon,Mississippi StateQuinndary Weatherspoon
+LA Clippers,,Lou Williams,Lou Williams
+Cleveland Cavaliers,Belmont,Dylan Windler,BelmontDylan Windler
+Portland Trail Blazers,St. Bonaventure,Jaylen Adams,St. BonaventureJaylen Adams
+Chicago Bulls,Villanova,Ryan Arcidiacono,VillanovaRyan Arcidiacono
+Orlando Magic,Texas,D.J. Augustin,TexasD.J. Augustin
+New Orleans Pelicans,UCLA,Lonzo Ball,UCLALonzo Ball
+Dallas Mavericks,Northeastern,J.J. Barea,NortheasternJ.J. Barea
+LA Clippers,Arkansas,Patrick Beverley,ArkansasPatrick Beverley
+Milwaukee Bucks,Kentucky,Eric Bledsoe,KentuckyEric Bledsoe
+Detroit Pistons,Tennessee,Jordan Bone,TennesseeJordan Bone
+Golden State Warriors,Boston College,Ky Bowman,Boston CollegeKy Bowman
+Los Angeles Lakers,Texas,Avery Bradley,TexasAvery Bradley
+Indiana Pacers,Virginia,Malcolm Brogdon,VirginiaMalcolm Brogdon
+Dallas Mavericks,Villanova,Jalen Brunson,VillanovaJalen Brunson
+Dallas Mavericks,Michigan,Trey Burke,MichiganTrey Burke
+Phoenix Suns,West Virginia,Jevon Carter,West VirginiaJevon Carter
+Orlando Magic,Syracuse,Michael Carter-Williams,SyracuseMichael Carter-Williams
+Brooklyn Nets,Florida,Chris Chiozza,FloridaChris Chiozza
+Utah Jazz,Missouri,Jordan Clarkson,MissouriJordan Clarkson
+Houston Rockets,Campbell,Chris Clemons,CampbellChris Clemons
+Utah Jazz,Ohio State,Mike Conley,Ohio StateMike Conley
+Los Angeles Lakers,Duke,Quinn Cook,DukeQuinn Cook
+Golden State Warriors,Davidson,Stephen Curry,DavidsonStephen Curry
+Cleveland Cavaliers,Saint Mary's,Matthew Dellavedova,Saint Mary'sMatthew Dellavedova
+Brooklyn Nets,Colorado,Spencer Dinwiddie,ColoradoSpencer Dinwiddie
+Denver Nuggets,South Carolina,PJ Dozier,South CarolinaPJ Dozier
+Miami Heat,,Goran Dragic,Goran Dragic
+Chicago Bulls,Providence,Kris Dunn,ProvidenceKris Dunn
+Boston Celtics,Purdue,Carsen Edwards,PurdueCarsen Edwards
+Cleveland Cavaliers,,Dante Exum,Dante Exum
+Sacramento Kings,Indiana,Yogi Ferrell,IndianaYogi Ferrell
+Sacramento Kings,Kentucky,De'Aaron Fox,KentuckyDe'Aaron Fox
+Orlando Magic,Washington,Markelle Fultz,WashingtonMarkelle Fultz
+Cleveland Cavaliers,Vanderbilt,Darius Garland,VanderbiltDarius Garland
+Atlanta Hawks,Florida Gulf Coast,Brandon Goodwin,Florida Gulf CoastBrandon Goodwin
+Charlotte Hornets,Kansas,Devonte' Graham,KansasDevonte' Graham
+Washington Wizards,Notre Dame,Jerian Grant,Notre DameJerian Grant
+New Orleans Pelicans,LSU,Josh Gray,LSUJosh Gray
+New York Knicks,Auburn,Jared Harper,AuburnJared Harper
+Chicago Bulls,Tulsa,Shaquille Harrison,TulsaShaquille Harrison
+Milwaukee Bucks,IUPUI,George Hill,IUPUIGeorge Hill
+Indiana Pacers,UCLA,Aaron Holiday,UCLAAaron Holiday
+Brooklyn Nets,Duke,Kyrie Irving,DukeKyrie Irving
+New Orleans Pelicans,Duke,Frank Jackson,DukeFrank Jackson
+LA Clippers,Boston College,Reggie Jackson,Boston CollegeReggie Jackson
+Memphis Grizzlies,Duke,Tyus Jones,DukeTyus Jones
+Sacramento Kings,Texas,Cory Joseph,TexasCory Joseph
+Detroit Pistons,Kentucky,Brandon Knight,KentuckyBrandon Knight
+Chicago Bulls,UCLA,Zach LaVine,UCLAZach LaVine
+Phoenix Suns,,Jalen Lecque,Jalen Lecque
+Portland Trail Blazers,Weber State,Damian Lillard,Weber StateDamian Lillard
+Toronto Raptors,Villanova,Kyle Lowry,VillanovaKyle Lowry
+Brooklyn Nets,Memphis,Jeremiah Martin,MemphisJeremiah Martin
+Milwaukee Bucks,Kansas,Frank Mason III ,KansasFrank Mason III 
+Indiana Pacers,Arizona,T.J. McConnell,ArizonaT.J. McConnell
+Minnesota Timberwolves,USC,Jordan McLaughlin,USCJordan McLaughlin
+San Antonio Spurs,Saint Mary's,Patty Mills,Saint Mary'sPatty Mills
+Memphis Grizzlies,Murray State,Ja Morant,Murray StateJa Morant
+Denver Nuggets,Iowa State,Monte Morris,Iowa StateMonte Morris
+Utah Jazz,,Emmanuel Mudiay,Emmanuel Mudiay
+Golden State Warriors,Kentucky,Mychal Mulder,KentuckyMychal Mulder
+San Antonio Spurs,Washington,Dejounte Murray,WashingtonDejounte Murray
+Denver Nuggets,Kentucky,Jamal Murray,KentuckyJamal Murray
+Washington Wizards,Connecticut,Shabazz Napier,ConnecticutShabazz Napier
+Philadelphia 76ers,,Raul Neto,Raul Neto
+New York Knicks,,Frank Ntilikina,Frank Ntilikina
+Oklahoma City Thunder,Wake Forest,Chris Paul,Wake ForestChris Paul
+Phoenix Suns,Murray State,Cameron Payne,Murray StateCameron Payne
+New York Knicks,Louisiana-Lafayette,Elfrid Payton,Louisiana-LafayetteElfrid Payton
+Washington Wizards,Oregon State, Gary Payton II,Oregon State Gary Payton II
+Houston Rockets,Duke,Austin Rivers,DukeAustin Rivers
+Los Angeles Lakers,Kentucky,Rajon Rondo,KentuckyRajon Rondo
+Detroit Pistons,Memphis,Derrick Rose,MemphisDerrick Rose
+Charlotte Hornets,Louisville,Terry Rozier,LouisvilleTerry Rozier
+Phoenix Suns,,Ricky Rubio,Ricky Rubio
+Oklahoma City Thunder,,Dennis Schroder,Dennis Schroder
+Cleveland Cavaliers,Alabama,Collin Sexton,AlabamaCollin Sexton
+Philadelphia 76ers,LSU,Ben Simmons,LSUBen Simmons
+Charlotte Hornets,Arizona,Kobi Simmons,ArizonaKobi Simmons
+Boston Celtics,Oklahoma State,Marcus Smart,Oklahoma StateMarcus Smart
+Washington Wizards,Wake Forest,Ish Smith,Wake ForestIsh Smith
+New York Knicks,North Carolina State, Dennis Smith Jr.,North Carolina State Dennis Smith Jr.
+Indiana Pacers,Xavier,Edmond Sumner,XavierEdmond Sumner
+Atlanta Hawks,Wake Forest,Jeff Teague,Wake ForestJeff Teague
+Miami Heat,UC Santa Barbara,Gabe Vincent,UC Santa BarbaraGabe Vincent
+Boston Celtics,Connecticut,Kemba Walker,ConnecticutKemba Walker
+Washington Wizards,Kentucky,John Wall,KentuckyJohn Wall
+Boston Celtics,Pittsburgh,Brad Wanamaker,PittsburghBrad Wanamaker
+Boston Celtics,LSU,Tremont Waters,LSUTremont Waters
+Houston Rockets,UCLA,Russell Westbrook,UCLARussell Westbrook
+Chicago Bulls,North Carolina,Coby White,North CarolinaCoby White
+San Antonio Spurs,Colorado,Derrick White,ColoradoDerrick White
+Utah Jazz,Gonzaga,Nigel Williams-Goss,GonzagaNigel Williams-Goss
+Dallas Mavericks,Utah,Delon Wright,UtahDelon Wright
+Utah Jazz,Hofstra,Justin Wright-Foreman,HofstraJustin Wright-Foreman
+Atlanta Hawks,Oklahoma,Trae Young,OklahomaTrae Young
